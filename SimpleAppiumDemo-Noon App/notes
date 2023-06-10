@@ -1,0 +1,10 @@
+
+c com.sec.android.app.popupcalculator:id/calc_keypad_btn_clear
+/ com.sec.android.app.popupcalculator:id/calc_keypad_btn_div
+* com.sec.android.app.popupcalculator:id/calc_keypad_btn_mul
+7 com.sec.android.app.popupcalculator:id/calc_keypad_btn_07
+8 com.sec.android.app.popupcalculator:id/calc_keypad_btn_08
+= com.sec.android.app.popupcalculator:id/calc_keypad_btn_equal
++ com.sec.android.app.popupcalculator:id/calc_keypad_btn_add
+- com.sec.android.app.popupcalculator:id/calc_keypad_btn_sub
+delete com.sec.android.app.popupcalculator:id/calc_handle_btn_delete
